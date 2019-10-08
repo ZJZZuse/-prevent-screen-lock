@@ -12,6 +12,8 @@
 
 命令行打开jar包即可。
 
+`java -jar ./prevent-screen-lock-1.0-SNAPSHOT-jar-with-dependencies.jar`
+
 自己也可以根据实际需求修改。
 
 ## download
