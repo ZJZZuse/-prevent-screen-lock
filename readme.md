@@ -15,4 +15,4 @@
 自己也可以根据实际需求修改。
 
 ## download
-
+[release](https://gitee.com/zeeus/prevent-screen-lock/releases)
